@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tictactoe"
+    }
+  },
+  "defaultProject": "tictactoe",
+  "cli": {
+    "analytics": "7852d3f3-2a08-48fe-9c2f-4130b60452b9"
+  }
 }
